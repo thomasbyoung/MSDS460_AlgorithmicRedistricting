@@ -1,11 +1,17 @@
 # MSDS460_AlgorithmicRedistricting
 
 **Group Members**
+
 Albert Lee
+
 Alberto Olea
+
 Maddie Stapulionis
+
 Thomas Young
+
 Migus Wong
+
 
 **Introduction**
 
