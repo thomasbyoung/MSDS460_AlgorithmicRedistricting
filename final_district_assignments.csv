@@ -1,0 +1,134 @@
+County GEOID,County/City,Population,Neighbor Names,Neighbor GEOIDs,District
+51001,Accomack County,33239,"['Lancaster County', 'Mathews County', 'Middlesex County', 'Northampton County', 'Northumberland County']","[51103, 51115, 51119, 51131, 51133]",7
+51003,Albemarle County,115676,"['Augusta County', 'Buckingham County', 'Fluvanna County', 'Greene County', 'Louisa County', 'Nelson County', 'Orange County', 'Rockingham County', 'Charlottesville city']","[51015, 51029, 51065, 51079, 51109, 51125, 51137, 51165, 51540]",5
+51005,Alleghany County,14595,"['Bath County', 'Botetourt County', 'Craig County', 'Rockbridge County', 'Covington city']","[51017, 51023, 51045, 51163, 51580]",2
+51007,Amelia County,13480,"['Chesterfield County', 'Cumberland County', 'Dinwiddie County', 'Nottoway County', 'Powhatan County', 'Prince Edward County']","[51041, 51049, 51053, 51135, 51145, 51147]",5
+51009,Amherst County,31396,"['Appomattox County', 'Bedford County', 'Campbell County', 'Nelson County', 'Rockbridge County', 'Lynchburg city']","[51011, 51019, 51031, 51125, 51163, 51680]",1
+51011,Appomattox County,16864,"['Amherst County', 'Buckingham County', 'Campbell County', 'Charlotte County', 'Nelson County', 'Prince Edward County']","[51009, 51029, 51031, 51037, 51125, 51147]",5
+51013,Arlington County,234162,"['Fairfax County', 'Alexandria city', 'Falls Church city']","[51059, 51510, 51610]",7
+51015,Augusta County,78247,"['Albemarle County', 'Bath County', 'Highland County', 'Nelson County', 'Rockbridge County', 'Rockingham County', 'Staunton city', 'Waynesboro city']","[51003, 51017, 51091, 51125, 51163, 51165, 51790, 51820]",9
+51017,Bath County,4051,"['Alleghany County', 'Augusta County', 'Highland County', 'Rockbridge County']","[51005, 51015, 51091, 51163]",1
+51019,Bedford County,81525,"['Amherst County', 'Botetourt County', 'Campbell County', 'Franklin County', 'Pittsylvania County', 'Roanoke County', 'Rockbridge County', 'Lynchburg city']","[51009, 51023, 51031, 51067, 51143, 51161, 51163, 51680]",11
+51021,Bland County,6179,"['Giles County', 'Pulaski County', 'Smyth County', 'Tazewell County', 'Wythe County']","[51071, 51155, 51173, 51185, 51197]",7
+51023,Botetourt County,34125,"['Alleghany County', 'Bedford County', 'Craig County', 'Roanoke County', 'Rockbridge County']","[51005, 51019, 51045, 51161, 51163]",7
+51025,Brunswick County,15749,"['Dinwiddie County', 'Greensville County', 'Lunenburg County', 'Mecklenburg County', 'Nottoway County']","[51053, 51081, 51111, 51117, 51135]",5
+51027,Buchanan County,19087,"['Dickenson County', 'Russell County', 'Tazewell County']","[51051, 51167, 51185]",4
+51029,Buckingham County,16978,"['Albemarle County', 'Appomattox County', 'Cumberland County', 'Fluvanna County', 'Nelson County', 'Prince Edward County']","[51003, 51011, 51049, 51065, 51125, 51147]",2
+51031,Campbell County,55270,"['Amherst County', 'Appomattox County', 'Bedford County', 'Charlotte County', 'Halifax County', 'Pittsylvania County', 'Lynchburg city']","[51009, 51011, 51019, 51037, 51083, 51143, 51680]",7
+51033,Caroline County,32640,"['Essex County', 'Hanover County', 'King and Queen County', 'King George County', 'King William County', 'Spotsylvania County', 'Stafford County']","[51057, 51085, 51097, 51099, 51101, 51177, 51179]",3
+51035,Carroll County,29239,"['Floyd County', 'Grayson County', 'Patrick County', 'Pulaski County', 'Wythe County', 'Galax city']","[51063, 51077, 51141, 51155, 51197, 51640]",8
+51036,Charles City County,6610,"['Chesterfield County', 'Henrico County', 'James City County', 'New Kent County', 'Prince George County', 'Surry County']","[51041, 51087, 51095, 51127, 51149, 51181]",1
+51037,Charlotte County,11336,"['Appomattox County', 'Campbell County', 'Halifax County', 'Lunenburg County', 'Mecklenburg County', 'Prince Edward County']","[51011, 51031, 51083, 51111, 51117, 51147]",7
+51041,Chesterfield County,383876,"['Amelia County', 'Charles City County', 'Dinwiddie County', 'Goochland County', 'Henrico County', 'Powhatan County', 'Prince George County', 'Colonial Heights city', 'Hopewell city', 'Petersburg city', 'Richmond city']","[51007, 51036, 51053, 51075, 51087, 51145, 51149, 51570, 51670, 51730, 51760]",1
+51043,Clarke County,15466,"['Fauquier County', 'Frederick County', 'Loudoun County', 'Warren County']","[51061, 51069, 51107, 51187]",3
+51045,Craig County,4843,"['Alleghany County', 'Botetourt County', 'Giles County', 'Montgomery County', 'Roanoke County']","[51005, 51023, 51071, 51121, 51161]",4
+51047,Culpeper County,54973,"['Fauquier County', 'Madison County', 'Orange County', 'Rappahannock County', 'Spotsylvania County', 'Stafford County']","[51061, 51113, 51137, 51157, 51177, 51179]",10
+51049,Cumberland County,9878,"['Amelia County', 'Buckingham County', 'Fluvanna County', 'Goochland County', 'Powhatan County', 'Prince Edward County']","[51007, 51029, 51065, 51075, 51145, 51147]",11
+51051,Dickenson County,13640,"['Buchanan County', 'Russell County', 'Wise County']","[51027, 51167, 51195]",7
+51053,Dinwiddie County,28343,"['Amelia County', 'Brunswick County', 'Chesterfield County', 'Greensville County', 'Nottoway County', 'Prince George County', 'Sussex County', 'Petersburg city']","[51007, 51025, 51041, 51081, 51135, 51149, 51183, 51730]",6
+51057,Essex County,10598,"['Caroline County', 'King and Queen County', 'King George County', 'Lancaster County', 'Middlesex County', 'Richmond County', 'Westmoreland County']","[51033, 51097, 51099, 51103, 51119, 51159, 51193]",5
+51059,Fairfax County,1141878,"['Arlington County', 'Loudoun County', 'Prince William County', 'Alexandria city', 'Fairfax city', 'Falls Church city']","[51013, 51107, 51153, 51510, 51600, 51610]",1
+51061,Fauquier County,75165,"['Clarke County', 'Culpeper County', 'Loudoun County', 'Prince William County', 'Rappahannock County', 'Stafford County', 'Warren County']","[51043, 51047, 51107, 51153, 51157, 51179, 51187]",10
+51063,Floyd County,15679,"['Carroll County', 'Franklin County', 'Montgomery County', 'Patrick County', 'Pulaski County', 'Roanoke County']","[51035, 51067, 51121, 51141, 51155, 51161]",5
+51065,Fluvanna County,28462,"['Albemarle County', 'Buckingham County', 'Cumberland County', 'Goochland County', 'Louisa County']","[51003, 51029, 51049, 51075, 51109]",6
+51067,Franklin County,55549,"['Bedford County', 'Floyd County', 'Henry County', 'Patrick County', 'Pittsylvania County', 'Roanoke County']","[51019, 51063, 51089, 51141, 51143, 51161]",3
+51069,Frederick County,95994,"['Clarke County', 'Shenandoah County', 'Warren County', 'Winchester city']","[51043, 51171, 51187, 51840]",1
+51071,Giles County,16457,"['Bland County', 'Craig County', 'Montgomery County', 'Pulaski County']","[51021, 51045, 51121, 51155]",5
+51073,Gloucester County,40057,"['James City County', 'King and Queen County', 'Mathews County', 'Middlesex County', 'York County']","[51095, 51097, 51115, 51119, 51199]",2
+51075,Goochland County,27197,"['Chesterfield County', 'Cumberland County', 'Fluvanna County', 'Hanover County', 'Henrico County', 'Louisa County', 'Powhatan County']","[51041, 51049, 51065, 51085, 51087, 51109, 51145]",2
+51077,Grayson County,15285,"['Carroll County', 'Smyth County', 'Washington County', 'Wythe County', 'Galax city']","[51035, 51173, 51191, 51197, 51640]",1
+51079,Greene County,21301,"['Albemarle County', 'Madison County', 'Orange County', 'Page County', 'Rockingham County']","[51003, 51113, 51137, 51139, 51165]",2
+51081,Greensville County,11133,"['Brunswick County', 'Dinwiddie County', 'Southampton County', 'Sussex County', 'Emporia city']","[51025, 51053, 51175, 51183, 51595]",6
+51083,Halifax County,33432,"['Campbell County', 'Charlotte County', 'Mecklenburg County', 'Pittsylvania County']","[51031, 51037, 51117, 51143]",5
+51085,Hanover County,114148,"['Caroline County', 'Goochland County', 'Henrico County', 'King William County', 'Louisa County', 'New Kent County', 'Spotsylvania County']","[51033, 51075, 51087, 51101, 51109, 51127, 51177]",1
+51087,Henrico County,334760,"['Charles City County', 'Chesterfield County', 'Goochland County', 'Hanover County', 'New Kent County', 'Powhatan County', 'Richmond city']","[51036, 51041, 51075, 51085, 51127, 51145, 51760]",11
+51089,Henry County,49702,"['Franklin County', 'Patrick County', 'Pittsylvania County', 'Martinsville city']","[51067, 51141, 51143, 51690]",1
+51091,Highland County,2339,"['Augusta County', 'Bath County']","[51015, 51017]",10
+51093,Isle of Wight County,40711,"['James City County', 'Southampton County', 'Surry County', 'Franklin city', 'Newport News city', 'Suffolk city']","[51095, 51175, 51181, 51620, 51700, 51800]",9
+51095,James City County,82654,"['Charles City County', 'Gloucester County', 'Isle of Wight County', 'King and Queen County', 'New Kent County', 'Surry County', 'York County', 'Newport News city', 'Williamsburg city']","[51036, 51073, 51093, 51097, 51127, 51181, 51199, 51700, 51830]",3
+51097,King and Queen County,6720,"['Caroline County', 'Essex County', 'Gloucester County', 'James City County', 'King William County', 'Middlesex County', 'New Kent County']","[51033, 51057, 51073, 51095, 51101, 51119, 51127]",2
+51099,King George County,28568,"['Caroline County', 'Essex County', 'Stafford County', 'Westmoreland County']","[51033, 51057, 51179, 51193]",4
+51101,King William County,19030,"['Caroline County', 'Hanover County', 'King and Queen County', 'New Kent County']","[51033, 51085, 51097, 51127]",7
+51103,Lancaster County,10859,"['Accomack County', 'Essex County', 'Middlesex County', 'Northumberland County', 'Richmond County']","[51001, 51057, 51119, 51133, 51159]",6
+51105,Lee County,21745,"['Scott County', 'Wise County']","[51169, 51195]",2
+51107,Loudoun County,436347,"['Clarke County', 'Fairfax County', 'Fauquier County', 'Prince William County']","[51043, 51059, 51061, 51153]",2
+51109,Louisa County,41037,"['Albemarle County', 'Fluvanna County', 'Goochland County', 'Hanover County', 'Orange County', 'Spotsylvania County']","[51003, 51065, 51075, 51085, 51137, 51177]",3
+51111,Lunenburg County,12038,"['Brunswick County', 'Charlotte County', 'Mecklenburg County', 'Nottoway County', 'Prince Edward County']","[51025, 51037, 51117, 51135, 51147]",8
+51113,Madison County,14128,"['Culpeper County', 'Greene County', 'Orange County', 'Page County', 'Rappahannock County']","[51047, 51079, 51137, 51139, 51157]",7
+51115,Mathews County,8514,"['Accomack County', 'Gloucester County', 'Middlesex County', 'Northampton County', 'York County']","[51001, 51073, 51119, 51131, 51199]",4
+51117,Mecklenburg County,30648,"['Brunswick County', 'Charlotte County', 'Halifax County', 'Lunenburg County']","[51025, 51037, 51083, 51111]",3
+51119,Middlesex County,10924,"['Accomack County', 'Essex County', 'Gloucester County', 'King and Queen County', 'Lancaster County', 'Mathews County', 'Northampton County', 'Richmond County']","[51001, 51057, 51073, 51097, 51103, 51115, 51131, 51159]",3
+51121,Montgomery County,98666,"['Craig County', 'Floyd County', 'Giles County', 'Pulaski County', 'Roanoke County', 'Radford city']","[51045, 51063, 51071, 51155, 51161, 51750]",5
+51125,Nelson County,14705,"['Albemarle County', 'Amherst County', 'Appomattox County', 'Augusta County', 'Buckingham County', 'Rockbridge County']","[51003, 51009, 51011, 51015, 51029, 51163]",7
+51127,New Kent County,26134,"['Charles City County', 'Hanover County', 'Henrico County', 'James City County', 'King and Queen County', 'King William County']","[51036, 51085, 51087, 51095, 51097, 51101]",1
+51131,Northampton County,12021,"['Accomack County', 'Mathews County', 'Middlesex County', 'York County', 'Hampton city', 'Norfolk city', 'Poquoson city', 'Virginia Beach city']","[51001, 51115, 51119, 51199, 51650, 51710, 51735, 51810]",7
+51133,Northumberland County,12391,"['Accomack County', 'Lancaster County', 'Richmond County', 'Westmoreland County']","[51001, 51103, 51159, 51193]",2
+51135,Nottoway County,15566,"['Amelia County', 'Brunswick County', 'Dinwiddie County', 'Lunenburg County', 'Prince Edward County']","[51007, 51025, 51053, 51111, 51147]",10
+51137,Orange County,38574,"['Albemarle County', 'Culpeper County', 'Greene County', 'Louisa County', 'Madison County', 'Spotsylvania County']","[51003, 51047, 51079, 51109, 51113, 51177]",11
+51139,Page County,23741,"['Greene County', 'Madison County', 'Rappahannock County', 'Rockingham County', 'Shenandoah County', 'Warren County']","[51079, 51113, 51157, 51165, 51171, 51187]",6
+51141,Patrick County,17509,"['Carroll County', 'Floyd County', 'Franklin County', 'Henry County']","[51035, 51063, 51067, 51089]",10
+51143,Pittsylvania County,59571,"['Bedford County', 'Campbell County', 'Franklin County', 'Halifax County', 'Henry County', 'Danville city']","[51019, 51031, 51067, 51083, 51089, 51590]",11
+51145,Powhatan County,32105,"['Amelia County', 'Chesterfield County', 'Cumberland County', 'Goochland County', 'Henrico County']","[51007, 51041, 51049, 51075, 51087]",3
+51147,Prince Edward County,22049,"['Amelia County', 'Appomattox County', 'Buckingham County', 'Charlotte County', 'Cumberland County', 'Lunenburg County', 'Nottoway County']","[51007, 51011, 51029, 51037, 51049, 51111, 51135]",1
+51149,Prince George County,42871,"['Charles City County', 'Chesterfield County', 'Dinwiddie County', 'Surry County', 'Sussex County', 'Hopewell city', 'Petersburg city']","[51036, 51041, 51053, 51181, 51183, 51670, 51730]",4
+51153,Prince William County,489640,"['Fairfax County', 'Fauquier County', 'Loudoun County', 'Stafford County', 'Manassas city', 'Manassas Park city']","[51059, 51061, 51107, 51179, 51683, 51685]",1
+51155,Pulaski County,33655,"['Bland County', 'Carroll County', 'Floyd County', 'Giles County', 'Montgomery County', 'Wythe County', 'Radford city']","[51021, 51035, 51063, 51071, 51121, 51197, 51750]",5
+51157,Rappahannock County,7414,"['Culpeper County', 'Fauquier County', 'Madison County', 'Page County', 'Warren County']","[51047, 51061, 51113, 51139, 51187]",1
+51159,Richmond County,9184,"['Essex County', 'Lancaster County', 'Middlesex County', 'Northumberland County', 'Westmoreland County']","[51057, 51103, 51119, 51133, 51193]",9
+51161,Roanoke County,97026,"['Bedford County', 'Botetourt County', 'Craig County', 'Floyd County', 'Franklin County', 'Montgomery County', 'Roanoke city', 'Salem city']","[51019, 51023, 51045, 51063, 51067, 51121, 51770, 51775]",6
+51163,Rockbridge County,22358,"['Alleghany County', 'Amherst County', 'Augusta County', 'Bath County', 'Bedford County', 'Botetourt County', 'Nelson County', 'Buena Vista city', 'Lexington city']","[51005, 51009, 51015, 51017, 51019, 51023, 51125, 51530, 51678]",11
+51165,Rockingham County,86568,"['Albemarle County', 'Augusta County', 'Greene County', 'Page County', 'Shenandoah County', 'Harrisonburg city']","[51003, 51015, 51079, 51139, 51171, 51660]",1
+51167,Russell County,25477,"['Buchanan County', 'Dickenson County', 'Scott County', 'Smyth County', 'Tazewell County', 'Washington County', 'Wise County']","[51027, 51051, 51169, 51173, 51185, 51191, 51195]",10
+51169,Scott County,21433,"['Lee County', 'Russell County', 'Washington County', 'Wise County']","[51105, 51167, 51191, 51195]",1
+51171,Shenandoah County,45228,"['Frederick County', 'Page County', 'Rockingham County', 'Warren County']","[51069, 51139, 51165, 51187]",8
+51173,Smyth County,29216,"['Bland County', 'Grayson County', 'Russell County', 'Tazewell County', 'Washington County', 'Wythe County']","[51021, 51077, 51167, 51185, 51191, 51197]",4
+51175,Southampton County,17975,"['Greensville County', 'Isle of Wight County', 'Surry County', 'Sussex County', 'Franklin city', 'Suffolk city']","[51081, 51093, 51181, 51183, 51620, 51800]",4
+51177,Spotsylvania County,149588,"['Caroline County', 'Culpeper County', 'Hanover County', 'Louisa County', 'Orange County', 'Stafford County', 'Fredericksburg city']","[51033, 51047, 51085, 51109, 51137, 51179, 51630]",11
+51179,Stafford County,165428,"['Caroline County', 'Culpeper County', 'Fauquier County', 'King George County', 'Prince William County', 'Spotsylvania County', 'Fredericksburg city']","[51033, 51047, 51061, 51099, 51153, 51177, 51630]",5
+51181,Surry County,6593,"['Charles City County', 'Isle of Wight County', 'James City County', 'Prince George County', 'Southampton County', 'Sussex County', 'Newport News city']","[51036, 51093, 51095, 51149, 51175, 51183, 51700]",8
+51183,Sussex County,10757,"['Dinwiddie County', 'Greensville County', 'Prince George County', 'Southampton County', 'Surry County']","[51053, 51081, 51149, 51175, 51181]",10
+51185,Tazewell County,39120,"['Bland County', 'Buchanan County', 'Russell County', 'Smyth County']","[51021, 51027, 51167, 51173]",8
+51187,Warren County,41843,"['Clarke County', 'Fauquier County', 'Frederick County', 'Page County', 'Rappahannock County', 'Shenandoah County']","[51043, 51061, 51069, 51139, 51157, 51171]",1
+51191,Washington County,54050,"['Grayson County', 'Russell County', 'Scott County', 'Smyth County', 'Bristol city']","[51077, 51167, 51169, 51173, 51520]",7
+51193,Westmoreland County,19013,"['Essex County', 'King George County', 'Northumberland County', 'Richmond County']","[51057, 51099, 51133, 51159]",8
+51195,Wise County,35174,"['Dickenson County', 'Lee County', 'Russell County', 'Scott County', 'Norton city']","[51051, 51105, 51167, 51169, 51720]",10
+51197,Wythe County,28104,"['Bland County', 'Carroll County', 'Grayson County', 'Pulaski County', 'Smyth County']","[51021, 51035, 51077, 51155, 51173]",6
+51199,York County,70952,"['Gloucester County', 'James City County', 'Mathews County', 'Northampton County', 'Hampton city', 'Newport News city', 'Poquoson city', 'Williamsburg city']","[51073, 51095, 51115, 51131, 51650, 51700, 51735, 51830]",7
+51510,Alexandria City,155230,"['Arlington County', 'Fairfax County']","[51013, 51059]",2
+51520,Bristol City,16807,['Washington County'],[51191],8
+51530,Buena Vista City,6566,['Rockbridge County'],[51163],10
+51540,Charlottesville City,44983,['Albemarle County'],[51003],9
+51550,Chesapeake City,253886,"['Norfolk city', 'Portsmouth city', 'Suffolk city', 'Virginia Beach city']","[51710, 51740, 51800, 51810]",11
+51570,Colonial Heights City,18393,"['Chesterfield County', 'Petersburg city']","[51041, 51730]",5
+51580,Covington City,5545,['Alleghany County'],[51005],11
+51590,Danville City,41837,['Pittsylvania County'],[51143],7
+51595,Emporia City,5463,['Greensville County'],[51081],3
+51600,Fairfax City,25144,['Fairfax County'],[51059],8
+51610,Falls Church City,14685,"['Arlington County', 'Fairfax County']","[51013, 51059]",6
+51620,Franklin City,8339,"['Isle of Wight County', 'Southampton County']","[51093, 51175]",1
+51630,Fredericksburg City,28928,"['Spotsylvania County', 'Stafford County']","[51177, 51179]",9
+51640,Galax City,6717,"['Carroll County', 'Grayson County']","[51035, 51077]",2
+51650,Hampton City,137098,"['Northampton County', 'York County', 'Newport News city', 'Norfolk city', 'Poquoson city', 'Portsmouth city', 'Virginia Beach city']","[51131, 51199, 51700, 51710, 51735, 51740, 51810]",11
+51660,Harrisonburg City,51082,['Rockingham County'],[51165],3
+51670,Hopewell City,22752,"['Chesterfield County', 'Prince George County']","[51041, 51149]",3
+51678,Lexington City,7528,['Rockbridge County'],[51163],10
+51680,Lynchburg City,79535,"['Amherst County', 'Bedford County', 'Campbell County']","[51009, 51019, 51031]",5
+51683,Manassas City,42696,"['Prince William County', 'Manassas Park city']","[51153, 51685]",10
+51685,Manassas Park City,16361,"['Prince William County', 'Manassas city']","[51153, 51683]",4
+51690,Martinsville City,13763,['Henry County'],[51089],10
+51700,Newport News City,183118,"['Isle of Wight County', 'James City County', 'Surry County', 'York County', 'Hampton city', 'Portsmouth city', 'Suffolk city']","[51093, 51095, 51181, 51199, 51650, 51740, 51800]",2
+51710,Norfolk City,230930,"['Northampton County', 'Chesapeake city', 'Hampton city', 'Portsmouth city', 'Virginia Beach city']","[51131, 51550, 51650, 51740, 51810]",1
+51720,Norton City,3492,['Wise County'],[51195],3
+51730,Petersburg City,33309,"['Chesterfield County', 'Dinwiddie County', 'Prince George County', 'Colonial Heights city']","[51041, 51053, 51149, 51570]",4
+51735,Poquoson City,12635,"['Northampton County', 'York County', 'Hampton city']","[51131, 51199, 51650]",1
+51740,Portsmouth City,96793,"['Chesapeake city', 'Hampton city', 'Newport News city', 'Norfolk city', 'Suffolk city']","[51550, 51650, 51700, 51710, 51800]",6
+51750,Radford City,16971,"['Montgomery County', 'Pulaski County']","[51121, 51155]",3
+51760,Richmond City,229247,"['Chesterfield County', 'Henrico County']","[51041, 51087]",8
+51770,Roanoke City,97171,"['Roanoke County', 'Salem city']","[51161, 51775]",7
+51775,Salem City,25600,"['Roanoke County', 'Roanoke city']","[51161, 51770]",6
+51790,Staunton City,25915,['Augusta County'],[51015],2
+51800,Suffolk City,100659,"['Isle of Wight County', 'Southampton County', 'Chesapeake city', 'Newport News city', 'Portsmouth city']","[51093, 51175, 51550, 51700, 51740]",6
+51810,Virginia Beach City,453649,"['Northampton County', 'Chesapeake city', 'Hampton city', 'Norfolk city']","[51131, 51550, 51650, 51710]",9
+51820,Waynesboro City,23182,['Augusta County'],[51015],11
+51830,Williamsburg City,15847,"['James City County', 'York County']","[51095, 51199]",11
+51840,Winchester City,27617,['Frederick County'],[51069],11
