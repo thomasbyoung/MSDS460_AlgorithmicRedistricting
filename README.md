@@ -59,6 +59,9 @@ Pew Research Center (2024). "Partisanship by Family Income, Home Ownership, Unio
 
 Federal Reserve Bank of St. Louis (2025). "Release Tables: 172256."
 
+## GenAI Use
+This README and portions of the documentation were generated and edited with assistance from Claude.ai, an AI language model by Anthropic.
+
 ## License
 MIT License
 
